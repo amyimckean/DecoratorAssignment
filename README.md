@@ -3,7 +3,7 @@ Assignment #1 - Object Oriented Design
 
 Usage
 ---------------------
-Project implements a decorator pattern in the form of schedules and adding to schedules. It includes a print out to the project output and also included a host of unit tests that can be run with the included junit and hamcrest jars.
+This project creates the tools to create schedules in printable form by utilizing a decorator pattern. It includes a print out to the project output of pre-created values. It also includes unit tests that can be run with the included junit and hamcrest jars.
 
 Requirements
 ---------------------
